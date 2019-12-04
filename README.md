@@ -4,6 +4,9 @@
 1. `<link rel="stylesheet" href="queer.css">`
 2. Use any of the classes on any element 
 
+![screenshot: all current queer flags](samples/screenshot.png)
+
+
 ## Current classes:
 - .queer-bg-rainbow
 - .queer-bg-rainbow-blm
